@@ -1,4 +1,3 @@
-/* test */
 {
-	scripts: ["js-json.js"],
+	"scripts": ["js-json.js"]
 }
