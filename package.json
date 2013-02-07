@@ -1,0 +1,26 @@
+{
+	"name" : "js-json",
+	"description": "easy js to json parser",
+	"keywords": ["js-json", "psrser"],
+	"version": "0.1.2",
+	"main" : "./js-json.js",
+
+	"bugs": {
+		"url": "https://github.com/vflash/js-json/issues"
+	},
+
+	"author":{ 
+		"name" : "Vopilovsky Constantine",
+		"email" : "flash.vkv@gmail.com",
+		"url" : "http://vflash.ru"
+	},
+	
+	"files":["js-json.js", "LICENSE", "README.md"],
+	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vflash/js-json"
+	}
+
+}
+
