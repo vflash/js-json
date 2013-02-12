@@ -2,7 +2,7 @@
 	"name" : "js-json",
 	"description": "easy js to json parser",
 	"keywords": ["js-json", "psrser"],
-	"version": "0.1.2",
+	"version": "0.1.4",
 	"main" : "./js-json.js",
 
 	"bugs": {
